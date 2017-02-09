@@ -16,4 +16,4 @@ Small video player & recorder built with Electron.
 	`npm start`
 
 ##Screenshot
-![alt text](https://github.com/andriybobyr/video-recorder.git/blob/master/img/screen.png?raw=true "Screenshot of application")
+![alt text](https://github.com/andriybobyr/video-recorder/blob/master/img/screen.png?raw=true "Screenshot of application")
