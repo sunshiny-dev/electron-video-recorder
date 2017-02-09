@@ -4,10 +4,10 @@ Small video player & recorder built with Electron.
 ##Running the application
 1. Clone this repo
 
-	`git clone https://github.com/antonpestovv/electron-video-recorder.git`
+	`git clone https://github.com/andriybobyr/video-recorder.git`
 2. Go to application folder
 
-	`cd electron-video-recorder`
+	`cd video-recorder`
 3. Install dependencies
 
 	`npm install`
@@ -16,4 +16,4 @@ Small video player & recorder built with Electron.
 	`npm start`
 
 ##Screenshot
-![alt text](https://github.com/maartenvantigkhem/Electron-Video-Recorder/blob/master/img/screen.png?raw=true "Screenshot of application")
+![alt text](https://github.com/andriybobyr/video-recorder.git/blob/master/img/screen.png?raw=true "Screenshot of application")
